@@ -14,6 +14,7 @@ It has features like pickup_datetime, pickup_longitude, pickup_latitude, dropoff
 ### Notebooks:<br>
 <br>
 1. visualization.ipynb:<br>
+<br>
 Plots pick up locations in New York.<br>
 <br>
 ![Pick_up_locations](/images/Plot_lat_long.png)
