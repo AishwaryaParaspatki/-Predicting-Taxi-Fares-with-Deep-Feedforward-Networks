@@ -7,7 +7,7 @@ The dataset for this project is hosted by Kaggle.<br>
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data<br>
 It has features like pickup_datetime, pickup_longitude, pickup_latitude, dropoff_longitude, dropoff_latitude and passenger_count.<br>
 <br>
-![Dataset](/images/Dataset_head.png)
+![Dataset](/images/Dataset_head.PNG)
 <br>
 <br>
 <br>
@@ -34,4 +34,4 @@ Train RMSE: 3.34<br>
 Test RMSE: 3.29<br>
 <br>
 Prediction on test data:<br>
-![Prediction](/images/Prediction.png)
+![Prediction](/images/Prediction.PNG)
