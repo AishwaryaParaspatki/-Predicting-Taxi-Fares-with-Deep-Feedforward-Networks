@@ -15,7 +15,7 @@ It has features like pickup_datetime, pickup_longitude, pickup_latitude, dropoff
 <br>
 1. visualization.ipynb:<br>
 Plots pick up locations in New York.<br>
-![Pick up locations](/images/Plot_lat_long.png)
+![Pick_up_locations](/images/Plot_lat_long.png)
 <br>
 <br>
 <br>
@@ -34,4 +34,4 @@ Train RMSE: 3.34<br>
 Test RMSE: 3.29<br>
 <br>
 Prediction on test data:<br>
-![Prediction](/images/Prediction.PNG)
+![Predictions](/images/Prediction.PNG)
