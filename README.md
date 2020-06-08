@@ -15,6 +15,7 @@ It has features like pickup_datetime, pickup_longitude, pickup_latitude, dropoff
 <br>
 1. visualization.ipynb:<br>
 Plots pick up locations in New York.<br>
+<br>
 ![Pick_up_locations](/images/Plot_lat_long.png)
 <br>
 <br>
@@ -25,9 +26,9 @@ Contains preprocessing which removes outliers, missing values, replaced certain 
 <br>
 3. main.ipynb:<br>
 Used a Keras model with TensorFlow backend with 5 hidden layers: 1st layer - 128 hidden units with relu activation, 2nd layer - 64 hidden units with relu activation, 3rd layer - 32 hidden units with relu activation, 4th layer - 8 hidden units with relu activation and 5th layer - 1 output unit.<br>
-Used Mean squred error as the loss function and adam optimizer with 5 epoches of training.<br>
-<br>
-<br>
+Used Mean squred error as the loss function and adam optimizer with 5 epoches of training.
+
+
 ### Evaluation metrics:<br>
 Root Mean Squared Error:<br>
 Train RMSE: 3.34<br>
