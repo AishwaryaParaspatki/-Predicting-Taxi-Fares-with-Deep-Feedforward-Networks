@@ -1,7 +1,11 @@
 #  Predicting Taxi Fares with Deep Feedforward Networks
 
-Technology stack:
-
+Technology stack:<br>
+Python<br>
+Keras - TensorFlow<br>
+Matplotlib<br>
+Numpy<br>
+sklearn<br>
 
 The dataset for this project is hosted by Kaggle.<br>
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data<br>
